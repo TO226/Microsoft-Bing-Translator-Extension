@@ -3,7 +3,7 @@
 A Chrome extension that allows you to use Microsoft Bing Translator at any time.
 Sure, here's an example text for the installation instructions for a Chrome extension readme:
 
-Installation
+## **Installation**
 
 To install this extension in Google Chrome, follow these steps:
 

@@ -21,7 +21,8 @@ To install this extension in Google Chrome, follow these steps:
 6. Click on the "Load unpacked" button and select the downloaded extension folder.
 7. The extension will be added to Chrome and will appear in the list of installed extensions.
 
-### License
+## License
+
 This project is licensed under the MIT License. The following project codes are used, all of which are licensed under the MIT License.
 
 ・This project was forked from the code of ChatGPT_Extension (The MIT License).

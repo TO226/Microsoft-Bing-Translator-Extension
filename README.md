@@ -1,9 +1,13 @@
 # Microsoft Bing Translator Extension
 
 A Chrome extension that allows you to use Microsoft Bing Translator at any time.
-Sure, here's an example text for the installation instructions for a Chrome extension readme:
 
-![readme01](https://user-images.githubusercontent.com/109842406/222406854-9238b90c-a53f-4bb8-aae3-e2d7c938e675.png)
+
+
+|ポップアップ|
+|---|
+|![readme010](https://user-images.githubusercontent.com/109842406/222413592-112dead9-86eb-4630-b9c2-9ab0c0c801f7.png)
+|
 
 ## Installation
 

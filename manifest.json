@@ -1,6 +1,6 @@
 {
   "name": "Microsoft Bing Translator Extansion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "description": "A Chrome extension that allows you to use Microsoft Bing Translator at any time.",
 

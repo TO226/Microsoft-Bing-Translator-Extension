@@ -20,6 +20,11 @@ To install this extension in Google Chrome, follow these steps:
 5. In the Extensions tab, toggle the switch in the top-right corner to "Developer mode".
 6. Click on the "Load unpacked" button and select the downloaded extension folder.
 7. The extension will be added to Chrome and will appear in the list of installed extensions.
+8. Click on the three dots in the top-right corner of the Chrome browser.
+9. Select "More tools" and then "Extensions" from the drop-down menu.
+10. Toggle the switch located in the bottom-right corner of the extension card.
+11.
+1X. The extension will now appear as a pinned icon next to the Chrome address bar.
 
 ## License
 

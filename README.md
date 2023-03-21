@@ -20,11 +20,27 @@ To install this extension in Google Chrome, follow these steps:
 5. In the Extensions tab, toggle the switch in the top-right corner to "Developer mode".
 6. Click on the "Load unpacked" button and select the downloaded extension folder.
 7. The extension will be added to Chrome and will appear in the list of installed extensions.
-8. Click on the three dots in the top-right corner of the Chrome browser.
-9. Select "More tools" and then "Extensions" from the drop-down menu.
-10. Toggle the switch located in the bottom-right corner of the extension card.
-11.
-1X. The extension will now appear as a pinned icon next to the Chrome address bar.
+
+## Pinning the Extension
+
+To pin the extension to your Chrome toolbar, follow these steps:
+
+1. Click on the three dots in the top-right corner of the Chrome browser.
+2. Select "More tools" and then "Extensions" from the drop-down menu.
+3. Toggle the switch located in the bottom-right corner of the extension card.
+4. "Extensions" will now appear next to the Chrome address bar.
+5. Click on the "Extensions" button and ___
+6. The extension will now appear as a pinned icon next to the Chrome address bar.
+
+## Usage
+
+To use the extension, follow these steps:
+
+1. Pin the Chrome extension to your browser toolbar using the instructions above.
+2. Click on the extension icon in your browser toolbar.
+3. Microsoft Bing Translator will appear in a pop-up, allowing you to easily and quickly translate any text.
+
+
 
 ## License
 

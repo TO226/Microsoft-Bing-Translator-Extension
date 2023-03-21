@@ -29,8 +29,8 @@ To pin the extension to your Chrome toolbar, follow these steps:
 2. Select "More tools" and then "Extensions" from the drop-down menu.
 3. Toggle the switch located in the bottom-right corner of the extension card.
 4. "Extensions" will now appear next to the Chrome address bar.
-5. Click on the "Extensions" button and ___
-6. The extension will now appear as a pinned icon next to the Chrome address bar.
+5. Click the pin button located to the right of the Microsoft Bing Translator Extension when it appears in the list of extensions.
+6. A new icon for the Microsoft Bing Translator Extension will now appear to the left of the "Extensions" button.
 
 ## Usage
 
